@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "Logger Bot",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.2.0",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sleax#0001",
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  }
+}
